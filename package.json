@@ -1,0 +1,22 @@
+{
+  "name": "sistema-de-agendamento",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k -n BACKEND,FRONTEND -c yellow,cyan \"python app.py\" \"vite\"",
+    "dev:frontend": "vite",
+    "dev:backend": "python app.py",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.2.1",
+    "vite": "^5.4.10"
+  }
+}

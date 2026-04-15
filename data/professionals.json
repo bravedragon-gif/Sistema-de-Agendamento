@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Dr. Julian Voss",
+        "name": "Dr. Gabriel Almeida",
         "specialty": "Cardiologia",
         "description": "Especialista em saúde cardiovascular com mais de 15 anos de experiência.",
         "image": "doctor.png",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "name": "Dra. Sarah Chen",
+        "name": "Dra. Marina Souza",
         "specialty": "Nutrição",
         "description": "Focada em bem-estar e performance através da alimentação consciente.",
         "image": "nutritionist.png",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "name": "Dr. Marcus Thorne",
+        "name": "Dr. Rafael Costa",
         "specialty": "Radiologia",
         "description": "Expert em diagnóstico por imagem de alta complexidade.",
         "image": "radiologist.png",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "name": "Dra. Elena Rossi",
+        "name": "Dra. Carolina Martins",
         "specialty": "Dermatologia",
         "description": "Especialista em cuidados com a pele e tratamentos estéticos avançados.",
         "image": "dermatologist.png",
